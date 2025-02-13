@@ -14,7 +14,7 @@
 
 > Welcome to GJS6 repository! We aim to catch up with the latest NLP techniques and leverage them to create projects. Join us in advancing the field of NLP through open collaboration and innovation!
 
-## 🤔 왜 깃잔심이 필요할까요요?
+## 🤔 왜 깃잔심이 필요할까요?
 - 함께라서 성장할 수 있습니다
     - 혼자서는 쉽게 게을러질 수 있지만, **함께 하는 커뮤니티는 지속적인 동기부여**를 제공합니다.
 - 서로의 시각과 지식으로 보완
