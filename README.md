@@ -62,27 +62,16 @@ class CollaborationFramework:
         1️⃣ 수요일: NLP 기술 리뷰 & 프로젝트 내용 발표 (Live Share)"""
 ```
 
-
-## 📈 성과 지표 (Achievement Metrics)
-**2024 주요 KPI**  
-| 지표                     | 목표치 | 현재 달성률 |
-|--------------------------|--------|-------------|
-| 커밋 수                  | 1,200  | 83%         |
-| 이슈 해결률              | 95%    | 89%         | 
-| 기술 블로그 게시물       | 24편   | 15편        |
-| 오픈소스 기여도          | 8회    | 5회         |
-
-
 ## 💻 주차별 활동 (Activity History)
-
+논문 발표의 경우 예시 일정이며, 발표자에 따라 리뷰 논문이 바뀔 수 있습니다
 | 날짜 | 내용 | 발표자 | 
 | -------- | -------- | ---- |
-| 2025/02/ | OT       |      |
-| 2025/02/ |  Part 1. | 미정 | 
-| 2025/02/ |  Part 2. | 미정 | 
-| 2025/02/ |  Part 3. | 미정 | 
-| 2025/03/ |  Part 4. | 미정 | 
-| 2025/03/ |  Part 5. | 미정 | 
+| 2025/02/ |  OT       | 박수형 |
+| 2025/02/ |  s1: Simple test-time scaling | 미정 | 
+| 2025/02/ |  OmniHuman-1: Scaling One-Stage Human Animation | 미정 | 
+| 2025/02/ |  LIMO: Less Is More for Reasoning | 미정 | 
+| 2025/03/ |  CoAT: Chain-of-Associated-Thoughts Framework for Enhancing Large Language Models Reasoning | 미정 | 
+| 2025/03/ |  Syntriever: Training Retrievers with LLM-Generated Data | 미정 | 
 
 
 
