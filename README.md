@@ -88,16 +88,16 @@ class CollaborationFramework:
 | 날짜 | 내용 | 발표자 | 
 | -------- | -------- | ---- |
 | 2025/03/05 |  OT       | 박수형 |
-| 2025/03/12 |  s1: Simple test-time scaling | 미정 | 
-| 2025/03/19 |  OmniHuman-1: Scaling One-Stage Human Animation | 미정 |
+| 2025/03/12 |  [s1: Simple test-time scaling](https://arxiv.org/pdf/2501.19393) | 미정 | 
+| 2025/03/19 |  [TensorLLM: Tensorising Multi-Head Attention for Enhanced Reasoning and Compression in LLMs](https://arxiv.org/pdf/2501.15674) | 미정 |
 | 2025/03/26 |  ⭐Magical Week⭐ | 미정 |
-| 2025/04/02 |  LIMO: Less Is More for Reasoning | 미정 | 
-| 2025/04/09 |  CoAT: Chain-of-Associated-Thoughts Framework for Enhancing Large Language Models Reasoning | 미정 | 
-| 2025/04/16 |  Syntriever: Training Retrievers with LLM-Generated Data | 미정 | 
-| 2025/04/23 |  Demystifying Long Chain-of-Thought Reasoning in LLMs | 미정 | 
+| 2025/04/02 |  [LIMO: Less Is More for Reasoning](https://arxiv.org/pdf/2502.03387) | 미정 | 
+| 2025/04/09 |  [CoAT: Chain-of-Associated-Thoughts Framework for Enhancing Large Language Models Reasoning](https://arxiv.org/pdf/2502.02390) | 미정 | 
+| 2025/04/16 |  [Syntriever: How to Train Your Retriever with Synthetic Data from LLMs](https://arxiv.org/pdf/2502.03824) | 미정 | 
+| 2025/04/23 |  [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/pdf/2502.03373) | 미정 | 
 | 2025/04/30 |  ⭐Magical Week⭐ | 미정 |
-| 2025/05/07 |  Rethinking Mixture-of-Agents: Ensemble One Strong LLM | 미정 |
-| 2025/05/14 |  MaAS: Multi-agent Architecture Search (Agentic Supernet) | 미정 |
+| 2025/05/07 |  [Rethinking Mixture-of-Agents: Is Mixing Different Large Language Models Beneficial?](https://arxiv.org/pdf/2502.00674) | 미정 |
+| 2025/05/14 |  [Multi-agent Architecture Search via Agentic Supernet](https://arxiv.org/pdf/2502.04180) | 미정 |
 
 
 ## 💡 학습 자원 (Learning Resources)
