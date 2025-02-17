@@ -100,10 +100,6 @@ class CollaborationFramework:
 | 2025/05/14 |  [Rethinking Mixture-of-Agents: Is Mixing Different Large Language Models Beneficial?](https://arxiv.org/pdf/2502.00674) | 미정 |
 | 2025/05/17 |  🎉PseudoCon 2025🎉 | 미정 |
 
-## 💡 학습 자원 (Learning Resources)
-**우리가 만든 지식 허브**  
-- [LLM 핸드북](https://springcoolers.github.io/llm-handbook/_contents/intro.html): 다양한 LLM 지식과 이론을 접할 수 있는 공간 (제작 중)
-
 ## 🌱 참여 안내 (How to Engage)
 **팀원으로 참여하시려면 러너 모집 기간에 신청해주세요.**  
 - 링크 (준비중)
