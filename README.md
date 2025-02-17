@@ -88,7 +88,7 @@ class CollaborationFramework:
 | 날짜 | 내용 | 발표자 | 
 | -------- | -------- | ---- |
 | 2025/03/05 |  OT       | 박수형 |
-| 2025/03/12 |  [s1: Simple test-time scaling](https://arxiv.org/pdf/2501.19393) | 미정 | 
+| 2025/03/12 |  [s1: Simple test-time scaling](https://arxiv.org/pdf/2501.19393) | 박수형 | 
 | 2025/03/19 |  [TensorLLM: Tensorising Multi-Head Attention for Enhanced Reasoning and Compression in LLMs](https://arxiv.org/pdf/2501.15674) | 미정 |
 | 2025/03/26 |  ⭐Magical Week⭐ | 미정 |
 | 2025/04/02 |  [LIMO: Less Is More for Reasoning](https://arxiv.org/pdf/2502.03387) | 미정 | 
