@@ -98,7 +98,7 @@ class CollaborationFramework:
 | 2025/04/30 |  ⭐Magical Week⭐ | 미정 |
 | 2025/05/07 |  [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/pdf/2502.03373) | 미정 |
 | 2025/05/14 |  [Rethinking Mixture-of-Agents: Is Mixing Different Large Language Models Beneficial?](https://arxiv.org/pdf/2502.00674) | 미정 |
-
+| 2025/05/17 |  🎉PseudoCon 2025🎉 | 미정 |
 
 ## 💡 학습 자원 (Learning Resources)
 **우리가 만든 지식 허브**  
