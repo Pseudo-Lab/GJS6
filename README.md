@@ -54,16 +54,16 @@
 ## 🚀 프로젝트 로드맵 (Project Roadmap)
 ```mermaid
 gantt
-    title 2025 AI 프로젝트 여정
+    title 2025 NLP 프로젝트 여정
     section 핵심 마일스톤
-    프로젝트 준비    :a1, 2025-02-26, 7d
-    프로젝트 개발    :a2, after a1, 35d
-    중간발표 준비    :a3, after a2, 7d
-    프로젝트 디벨롭  :a4, after a3, 28d
-    PseudoCon 준비  : a5, after a4, 7d
+    프로젝트 준비    :a1, 2025-03-05, 7d
+    프로젝트 개발    :a2, after a1, 30d
+    중간발표 준비    :a3, after a2, 3d
+    프로젝트 디벨롭  :a4, after a3, 30d
+    PseudoCon 준비  : a5, after a4, 3d
     section 부가 활동
-    NLP 기술&논문 리뷰     :2025-02-26, 84d
-    프로젝트 점검          :2025-02-26, 84d
+    NLP 기술&논문 리뷰     :2025-03-05, 73d
+    프로젝트 점검          :2025-03-05, 73d
 ```
 
 
@@ -89,11 +89,15 @@ class CollaborationFramework:
 | -------- | -------- | ---- |
 | 2025/03/05 |  OT       | 박수형 |
 | 2025/03/12 |  s1: Simple test-time scaling | 미정 | 
-| 2025/03/19 |  OmniHuman-1: Scaling One-Stage Human Animation | 미정 | 
-| 2025/04/05 |  LIMO: Less Is More for Reasoning | 미정 | 
-| 2025/04/12 |  CoAT: Chain-of-Associated-Thoughts Framework for Enhancing Large Language Models Reasoning | 미정 | 
-| 2025/04/19 |  Syntriever: Training Retrievers with LLM-Generated Data | 미정 | 
-
+| 2025/03/19 |  OmniHuman-1: Scaling One-Stage Human Animation | 미정 |
+| 2025/03/26 |  ⭐Magical Week⭐ | 미정 |
+| 2025/04/02 |  LIMO: Less Is More for Reasoning | 미정 | 
+| 2025/04/09 |  CoAT: Chain-of-Associated-Thoughts Framework for Enhancing Large Language Models Reasoning | 미정 | 
+| 2025/04/16 |  Syntriever: Training Retrievers with LLM-Generated Data | 미정 | 
+| 2025/04/23 |  Demystifying Long Chain-of-Thought Reasoning in LLMs | 미정 | 
+| 2025/04/30 |  ⭐Magical Week⭐ | 미정 |
+| 2025/05/07 |  Rethinking Mixture-of-Agents: Ensemble One Strong LLM | 미정 |
+| 2025/05/14 |  MaAS: Multi-agent Architecture Search (Agentic Supernet) | 미정 |
 
 
 ## 💡 학습 자원 (Learning Resources)
