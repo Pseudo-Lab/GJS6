@@ -92,12 +92,12 @@ class CollaborationFramework:
 | 2025/03/19 |  [TensorLLM: Tensorising Multi-Head Attention for Enhanced Reasoning and Compression in LLMs](https://arxiv.org/pdf/2501.15674) | 미정 |
 | 2025/03/26 |  ⭐Magical Week⭐ | 미정 |
 | 2025/04/02 |  [LIMO: Less Is More for Reasoning](https://arxiv.org/pdf/2502.03387) | 미정 | 
-| 2025/04/09 |  [CoAT: Chain-of-Associated-Thoughts Framework for Enhancing Large Language Models Reasoning](https://arxiv.org/pdf/2502.02390) | 미정 | 
-| 2025/04/16 |  [Syntriever: How to Train Your Retriever with Synthetic Data from LLMs](https://arxiv.org/pdf/2502.03824) | 미정 | 
-| 2025/04/23 |  [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/pdf/2502.03373) | 미정 | 
+| 2025/04/09 |  🧑‍🏫프로젝트 중간 발표🧑‍🏫 | 미정 | 
+| 2025/04/16 |  [CoAT: Chain-of-Associated-Thoughts Framework for Enhancing Large Language Models Reasoning](https://arxiv.org/pdf/2502.02390) | 미정 | 
+| 2025/04/23 |  [Syntriever: How to Train Your Retriever with Synthetic Data from LLMs](https://arxiv.org/pdf/2502.03824) | 미정 | 
 | 2025/04/30 |  ⭐Magical Week⭐ | 미정 |
-| 2025/05/07 |  [Rethinking Mixture-of-Agents: Is Mixing Different Large Language Models Beneficial?](https://arxiv.org/pdf/2502.00674) | 미정 |
-| 2025/05/14 |  [Multi-agent Architecture Search via Agentic Supernet](https://arxiv.org/pdf/2502.04180) | 미정 |
+| 2025/05/07 |  [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/pdf/2502.03373) | 미정 |
+| 2025/05/14 |  [Rethinking Mixture-of-Agents: Is Mixing Different Large Language Models Beneficial?](https://arxiv.org/pdf/2502.00674) | 미정 |
 
 
 ## 💡 학습 자원 (Learning Resources)
