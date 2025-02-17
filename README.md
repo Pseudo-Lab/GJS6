@@ -114,6 +114,7 @@ class CollaborationFramework:
 1. 특별한 신청 없이 정기 모임 시간에 맞추어 디스코드 [#Room-YL](https://discordapp.com/channels/944032730050621450/1068784805413654579) 채널로 입장
 2. Magical Week 중 행사에 참가
 3. Pseudo Lab 행사에서 만나기
+4. 청강을 통해 모임에 참여하신 분들은 Discussion의 청강 후기 페이지에서 청강에 대한 후기 공유 부탁드립니다.
 
 ## About Pseudo Lab 👋🏼</h2>
 
