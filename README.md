@@ -118,6 +118,7 @@ class CollaborationFramework:
 <h2>Contributors 😃</h2>
 <a href="https://github.com/Pseudo-Lab/10th-template/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Pseudo-Lab/10th-template" />
+  <img src="https://contrib.rocks/image?repo=Coding-Child/Coding-Child" />
 </a>
 <br><br>
 
