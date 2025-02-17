@@ -90,9 +90,9 @@ class CollaborationFramework:
 | 2025/03/05 |  OT       | 박수형 |
 | 2025/03/12 |  s1: Simple test-time scaling | 미정 | 
 | 2025/03/19 |  OmniHuman-1: Scaling One-Stage Human Animation | 미정 | 
-| 2025/03/26 |  LIMO: Less Is More for Reasoning | 미정 | 
-| 2025/04/05 |  CoAT: Chain-of-Associated-Thoughts Framework for Enhancing Large Language Models Reasoning | 미정 | 
-| 2025/04/12 |  Syntriever: Training Retrievers with LLM-Generated Data | 미정 | 
+| 2025/04/05 |  LIMO: Less Is More for Reasoning | 미정 | 
+| 2025/04/12 |  CoAT: Chain-of-Associated-Thoughts Framework for Enhancing Large Language Models Reasoning | 미정 | 
+| 2025/04/19 |  Syntriever: Training Retrievers with LLM-Generated Data | 미정 | 
 
 
 
