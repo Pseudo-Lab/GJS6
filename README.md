@@ -87,12 +87,12 @@ class CollaborationFramework:
 논문 발표의 경우 예시 일정이며, 발표자에 따라 리뷰 논문이 바뀔 수 있습니다
 | 날짜 | 내용 | 발표자 | 
 | -------- | -------- | ---- |
-| 2025/02/ |  OT       | 박수형 |
-| 2025/02/ |  s1: Simple test-time scaling | 미정 | 
-| 2025/02/ |  OmniHuman-1: Scaling One-Stage Human Animation | 미정 | 
-| 2025/02/ |  LIMO: Less Is More for Reasoning | 미정 | 
-| 2025/03/ |  CoAT: Chain-of-Associated-Thoughts Framework for Enhancing Large Language Models Reasoning | 미정 | 
-| 2025/03/ |  Syntriever: Training Retrievers with LLM-Generated Data | 미정 | 
+| 2025/03/05 |  OT       | 박수형 |
+| 2025/03/12 |  s1: Simple test-time scaling | 미정 | 
+| 2025/03/19 |  OmniHuman-1: Scaling One-Stage Human Animation | 미정 | 
+| 2025/03/26 |  LIMO: Less Is More for Reasoning | 미정 | 
+| 2025/04/05 |  CoAT: Chain-of-Associated-Thoughts Framework for Enhancing Large Language Models Reasoning | 미정 | 
+| 2025/04/12 |  Syntriever: Training Retrievers with LLM-Generated Data | 미정 | 
 
 
 
