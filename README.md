@@ -76,9 +76,9 @@
 
 | 역할          | 이름 |  기술 스택 배지                                                                 | 주요 관심 분야                          |
 |---------------|------|-----------------------------------------------------------------------|----------------------------------------|
-| **Project Manager** | [박수형](https://github.com/Coding-Child) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) ![TensorFlow](https://img.shields.io/badge/Tensorflow-EE4C2C) ![Static Badge](https://img.shields.io/badge/LangChain-1C3C3C) | NLP / LLM / RAG / MoE |
-| **전 Builder** | [정한결](https://github.com/HangryDev) | ![SQL](https://img.shields.io/badge/SQL-Advanced-003B57) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | NLP |
-| Member | [정영상](https://www.linkedin.com/in/video-jeong?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | | NLP |
+| **Project Manager** | [박수형](https://github.com/Coding-Child) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) ![TensorFlow](https://img.shields.io/badge/Tensorflow-EE4C2C) ![Static Badge](https://img.shields.io/badge/LangChain-1C3C3C) ![Static Badge](https://img.shields.io/badge/Transformers-%23ffd21e)| NLP / LLM / RAG / MoE |
+| **전 Builder** | [정한결](https://github.com/HangryDev) | | NLP |
+| Member | [정영상](https://www.linkedin.com/in/video-jeong?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) ![Static Badge](https://img.shields.io/badge/LangChain-1C3C3C) ![Static Badge](https://img.shields.io/badge/Transformers-%23ffd21e) ![Static Badge](https://img.shields.io/badge/vLLM-%2363a1fc) ![Static Badge](https://img.shields.io/badge/FastAPI-%23009688) ![Static Badge](https://img.shields.io/badge/Docker-%231e63ee) ![Static Badge](https://img.shields.io/badge/Milvus-%20%230b86d9)| NLP / LLM / RAG / MoE |
 | Member | 신서현 | | NLP |
 | Member | [황윤희](https://www.linkedin.com/in/meuni/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![Static Badge](https://img.shields.io/badge/React-%234AD5FF) ![Static Badge](https://img.shields.io/badge/React%20Native-%234AD5FF) | NLP / LLM / RAG / MultiAgent |
 | Member | 김지한 | | NLP |
