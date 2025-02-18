@@ -123,17 +123,21 @@ class CollaborationFramework:
 | 날짜 | 내용 | 발표자 | 
 | -------- | -------- | ---- |
 | 2025/03/05 |  OT       | 박수형 |
-| 2025/03/12 |  [s1: Simple test-time scaling](https://arxiv.org/pdf/2501.19393) | 박수형 | 
-| 2025/03/19 |  [TensorLLM: Tensorising Multi-Head Attention for Enhanced Reasoning and Compression in LLMs](https://arxiv.org/pdf/2501.15674) | 미정 |
+| 2025/03/12 |  Study (1) | 박수형 | 
+| 2025/03/19 |  Study (2) | 미정 |
 | 2025/03/26 |  ⭐Magical Week⭐ | 미정 |
-| 2025/04/02 |  [LIMO: Less Is More for Reasoning](https://arxiv.org/pdf/2502.03387) | 미정 | 
+| 2025/04/02 |  Study (3) | 미정 | 
 | 2025/04/09 |  🧑‍🏫프로젝트 중간 발표🧑‍🏫 | 미정 | 
-| 2025/04/16 |  [CoAT: Chain-of-Associated-Thoughts Framework for Enhancing Large Language Models Reasoning](https://arxiv.org/pdf/2502.02390) | 미정 | 
-| 2025/04/23 |  [Syntriever: How to Train Your Retriever with Synthetic Data from LLMs](https://arxiv.org/pdf/2502.03824) | 미정 | 
+| 2025/04/16 |  Study (4) | 미정 | 
+| 2025/04/23 |  Study (5)) | 미정 | 
 | 2025/04/30 |  ⭐Magical Week⭐ | 미정 |
-| 2025/05/07 |  [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/pdf/2502.03373) | 미정 |
-| 2025/05/14 |  [Rethinking Mixture-of-Agents: Is Mixing Different Large Language Models Beneficial?](https://arxiv.org/pdf/2502.00674) | 미정 |
+| 2025/05/07 |  Study (6) | 미정 |
+| 2025/05/14 |  Study (7) | 미정 |
 | 2025/05/17 |  🎉PseudoCon 2025🎉 | 미정 |
+| 2025/05/21 |  Study (8) | 미정 |
+| 2025/05/28 |  Study (9) | 미정 |
+| 2025/06/04 |  Study (10) | 미정 |
+| 2025/06/11 |  Study (11) | 미정 |
 
 ## 🌱 참여 안내 (How to Engage)
 **팀원으로 참여하시려면 러너 모집 기간에 신청해주세요.**  
