@@ -78,7 +78,7 @@
 |---------------|------|-----------------------------------------------------------------------|----------------------------------------|
 | **Project Manager** | [박수형](https://github.com/Coding-Child) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) ![TensorFlow](https://img.shields.io/badge/Tensorflow-EE4C2C) ![Static Badge](https://img.shields.io/badge/LangChain-1C3C3C) | NLP / LLM / RAG / MoE |
 | **전 Builder** | [정한결](https://github.com/HangryDev) | ![SQL](https://img.shields.io/badge/SQL-Advanced-003B57) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | NLP |
-| Member | 정영상 | | NLP |
+| Member | [정영상](https://www.linkedin.com/in/video-jeong?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | | NLP |
 | Member | 신서현 | | NLP |
 | Member | [황윤희](https://www.linkedin.com/in/meuni/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![Static Badge](https://img.shields.io/badge/React-%234AD5FF) ![Static Badge](https://img.shields.io/badge/React%20Native-%234AD5FF) | NLP / LLM / RAG / MultiAgent / MultiModal |
 | Member | 김지한 | | NLP |
