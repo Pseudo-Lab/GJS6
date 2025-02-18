@@ -18,7 +18,6 @@
 **깃잔심은 함께 배우고 도전하며, 창의적이고 즐거운 분위기 속에서 실용적인 가치를 만들어가는 공동체**입니다.  
 단순한 공부 모임이 아니라, **비전과 가치를 공유하고 서로를 자극하며 실제 영향력을 만들어가는 리서치 팀**이 바로 깃잔심입니다.
 
-
 ## 🤔 왜 깃잔심이 필요할까요?
 - 함께라서 성장할 수 있습니다
     - 혼자서는 쉽게 게을러질 수 있지만, **함께 하는 커뮤니티는 지속적인 동기부여**를 제공합니다.
@@ -58,11 +57,11 @@
 - 학습 활동 및 활동 방법
     - 학습 자료
         - 스터디 활동 방법  
-        💡 **오픈 아카데미** 형태(=청강 가능)로 진행하며, 발표자료는 가짜연구소를 통해 **공개적으로 배포할** 수 있도록 할 예정입니
+        💡 **오픈 아카데미** 형태(=청강 가능)로 진행하며, 발표자료는 가짜연구소를 통해 **공개적으로 배포할** 수 있도록 할 예정입니다
 
         1. **진행 & 발표**
             - 출석체크를 위해 실명으로 참여 부탁드립니다.
-            - 온라인에서 여러분을 만나는 환경이므로 웹캠을 꼭 준비해 주세요~
+            - 온라인에서 여러분을 만나는 환경이므로 웹캠을 꼭 준비해 주세요
             - 발표자는 OT 날 선정 (참여 인원에 따라 1인 1-2회 정도 발표 예상)
         2. **학습 활동**
             - 담당한 이론을 정리하고, 발표를 준비합니다.
@@ -81,7 +80,7 @@
 | **전 Builder** | [정한결](https://github.com/HangryDev) | ![SQL](https://img.shields.io/badge/SQL-Advanced-003B57) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | NLP |
 | Member | 정영상 | | NLP |
 | Member | 신서현 | | NLP |
-| Member | 황윤희 | | NLP |
+| Member | [황윤희](https://www.linkedin.com/in/meuni/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![Static Badge](https://img.shields.io/badge/React-%234AD5FF) ![Static Badge](https://img.shields.io/badge/React%20Native-%234AD5FF) | NLP / LLM / RAG / MultiAgent / MultiModal |
 | Member | 김지한 | | NLP |
 
 
