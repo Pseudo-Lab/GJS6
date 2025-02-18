@@ -147,7 +147,7 @@ class CollaborationFramework:
 3. Pseudo Lab 행사에서 만나기
 4. 청강을 통해 모임에 참여하신 분들은 Discussion의 청강 후기 페이지에서 청강에 대한 후기 공유 부탁드립니다.
 
-## 지원서 필수 작성 사항
+## 🌟 지원서 필수 작성 사항
 - 깃헙에 NLP 잔디심기 Season 6에 지원하고자 할때 **하고싶은 프로젝트 주제와 자세한 기획**을 작성해주시기바랍니다.
 
 ## About Pseudo Lab 👋🏼</h2>
