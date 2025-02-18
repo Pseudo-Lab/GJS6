@@ -80,7 +80,7 @@
 | **전 Builder** | [정한결](https://github.com/HangryDev) | ![SQL](https://img.shields.io/badge/SQL-Advanced-003B57) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | NLP |
 | Member | [정영상](https://www.linkedin.com/in/video-jeong?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | | NLP |
 | Member | 신서현 | | NLP |
-| Member | [황윤희](https://www.linkedin.com/in/meuni/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![Static Badge](https://img.shields.io/badge/React-%234AD5FF) ![Static Badge](https://img.shields.io/badge/React%20Native-%234AD5FF) | NLP / LLM / RAG / MultiAgent / MultiModal |
+| Member | [황윤희](https://www.linkedin.com/in/meuni/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![Static Badge](https://img.shields.io/badge/React-%234AD5FF) ![Static Badge](https://img.shields.io/badge/React%20Native-%234AD5FF) | NLP / LLM / RAG / MultiAgent |
 | Member | 김지한 | | NLP |
 
 
