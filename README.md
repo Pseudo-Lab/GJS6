@@ -55,8 +55,10 @@
 - 첫 모임 날짜 & 시간 & 장소
     - 날짜: 3월 5일
     - 시간: 오후 7시
-    - 장소: [언커먼 갤러리](https://naver.me/xJiBtwoX)
-      
+    - 장소: 공덕역 부근 [ICT COC](https://www.ictcoc.kr/) 의 공간 지원을 통해 진행합니다!
+    - 오시는 길: (https://naver.me/xDJuMPJF) : 지도대로 '프론트원' 건물 1층에 오시면 올려보내드립니다. (자세한 안내는 단톡방에서)
+      ![ICTCOC_logo(영문, 배경투명)](https://github.com/user-attachments/assets/339da3d6-cd50-4f66-9106-a526f2142a05)
+
 - 정기 모임 시간 & 장소
     - 시간: 수요일 오후 7시 30분
     - 장소: 오프라인: 디스코드 [#ROOM-YL](https://discord.gg/EPurkHVtp2)
