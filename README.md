@@ -55,7 +55,7 @@
 - 첫 모임 날짜 & 시간 & 장소
     - 날짜: 3월 5일
     - 시간: 오후 7시
-    - 장소: 공덕역 부근 [ICT COC](https://www.ictcoc.kr/) 의 공간 지원을 통해 진행합니다!
+    - 장소: 공덕역 부근의 '개발자들을 위한 창업/연구 지원공간'  [ICT COC](https://www.ictcoc.kr/) 의 공간 지원을 통해 진행합니다!
     - 오시는 길: (https://naver.me/xDJuMPJF) : 지도대로 '프론트원' 건물 1층에 오시면 올려보내드립니다. (자세한 안내는 단톡방에서)
       ![ICTCOC_logo(영문, 배경투명)](https://github.com/user-attachments/assets/339da3d6-cd50-4f66-9106-a526f2142a05)
 
